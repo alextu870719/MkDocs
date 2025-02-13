@@ -9,6 +9,9 @@
 
 ## Step 2: Log In
 1. Visit the [Etonbio website](https://www.etonbio.com).
+         
+         Use Google Chrome browser
+
 2. Enter your **username** and **password**.
 3. Click **"Log In"** to access your account.
 
