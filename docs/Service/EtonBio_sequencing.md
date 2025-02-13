@@ -19,7 +19,9 @@
 1. Navigate to **"Sequencing for Plasmid/PCR products"**.
 2. Select the **sequencing service** type.
 3. **Sample Purification by Eton?**
-   - No / Yes ($1 per sample) for PCR product
+   
+         $1 per sample for PCR product
+
 4. **Sample Submission:** Choose **“I will mail my samples to Eton.”**
 5. **Result Delivery:** Enter your email to receive the sequencing results.
 6. Fill in the order form with the required details:
