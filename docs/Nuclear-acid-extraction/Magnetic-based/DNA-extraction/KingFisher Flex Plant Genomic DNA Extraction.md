@@ -71,18 +71,13 @@
 ## Notes:
 1. **Multichannel Pipette and Reservoir Usage:**
     - A multichannel pipette with reservoirs is utilized to dispense reagents efficiently.
-2. **3D-Printed Rack Compatibility:**
-    - You can use a 3D-printed rack designed for multichannel pipettes to transfer sample supernatant. The numbering system follows:
-        - No.1, 3, 5, 7 for Row A, C, E, G.
-        - No.2, 4, 6, 8 for Column B, D, F, H.
-    - This setup allows transferring 8 samples within just 2 pipetting steps.
-3. **Plate Preparation:**
+2. **Plate Preparation:**
     - Plates can be prepared and sealed with Press’n Seal to prevent evaporation during processing.
-4. **Wash Buffer Information:**
+3. **Wash Buffer Information:**
     - The wash buffer is formulated with 80% EtOH. Even when evaporated, it retains more than 70% EtOH concentration, ensuring sufficient potency for its intended use.
-5. **TE Buffer Recommendation:**
+4. **TE Buffer Recommendation:**
     - TE buffer is highly recommended for DNA elution due to the following reasons:
         - DNA is not very soluble in pure water.
         - TE buffer ensures compatibility with downstream applications such as PCR, qPCR, and enzymatic assays.
-6. **Sample volume:**
+5. **Sample volume:**
     - Although 700 µL of extraction buffer is used, only 400 µL is required for DNA binding. This amount is adequate because the binding buffer must maintain a 1:1 ratio with the DNA supernatant. Additionally, the maximum volume per well in a 96-well deep plate is 1 mL, and using 400 µL ensures you stay within this limit while simplifying pipetting to prevent moving debris.
