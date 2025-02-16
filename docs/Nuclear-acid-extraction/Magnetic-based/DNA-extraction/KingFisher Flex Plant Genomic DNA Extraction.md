@@ -38,11 +38,11 @@
     | **0.5 M EDTA, pH 8.0**     | 1 mM            | 0.2 ml            |
     | **Add water to**           |                 | 100.00 ml         |
 
-## **Other materials:**
+## **Other materials**
 - Isopropanol
 - Magnetic bead: any silica-coated beads
 
-## Procedure:
+## **Procedure**
 1. Collect approximately 100 mg of plant tissue in two 2 ml collection tubes with two 4 mm beads. Freeze the samples at -80˚C in a refrigerator or liquid nitrogen.
 2. (Optional) Lyophilize the samples overnight to enhance extraction, especially for root samples (Open the lid and cover with press ‘n seal wrap and poke a hole in it).
 3. Homogenize the samples using a MiniG at 1000 rpm for 15 seconds. Re-freeze the samples and repeat the homogenization process until all the samples are ground into a powder.
@@ -68,7 +68,7 @@
     !!! info "Note"
         **The protocol is based on elution volumes.**
 
-## Notes:
+## **Notes**
 1. **Multichannel Pipette and Reservoir Usage:**
     - A multichannel pipette with reservoirs is utilized to dispense reagents efficiently.
 2. **Plate Preparation:**
