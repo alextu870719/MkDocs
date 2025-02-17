@@ -17,14 +17,12 @@
 2. Use a pipette tip to pick a colony.
 3. Inoculate the colony into the PCR tube containing the PCR solution.
 4. Backup the colony on the LB plate.
-5. Throw the toothpick in the test tube containing 3 ml LB.
+5. Throw the pipette tip in the test tube containing 3 ml LB.
 6. Incubate at 37˚C, 200 rpm overnight.
 
 *Note: 3 ml LB is for plasmid isolation tomorrow.*
 
-### PCR Reaction
-
-### PCR Reaction
+## **PCR Reaction**
 
 | Step | Temperature (˚C) | Time | Note |
 | --- | --- | --- | --- |
@@ -34,4 +32,4 @@
 | 4 | 72 | 1 kb/min | Return to step 2 for 30 cycles |
 | 5 | 72 | 5 min | |
 
-### Run Gel to Check Construct
+## **Run Gel to Check Construct**
