@@ -50,9 +50,16 @@
     | **Add water to**           |                 | 50 ml             |
     | **Store at RT for up to 12 months** |        |                   |
 
+## **Other materials**
+
+* Isopropanol
+
+* Silica-coated magnetic beads
+
+
 ## **Procedures**
 
-1. Pellet the bacteria from a 100 ml (300 ml) culture in a centrifuge at 6000 x g for 5 minutes. Discard the supernatant. 
+1. Pellet the bacteria from a 100 ml (300 ml) culture in a centrifuge at 6000 g for 5 minutes. Discard the supernatant. 
 
     !!! note
         Perform the following step in 15 ml (Midi) or 50 ml (Maxi) tubes.
@@ -94,3 +101,7 @@
 13. Add 300 μl (900 µl) of Elution buffer to elute the DNA from the beads. Incubate for 15 min at 65°C.
 
 14. Settle the magnetic beads on a magnetic stand and transfer the supernatant to a new tube.
+
+## **Reference**
+
+Treitli S.C., BOMB.bio, 2019
