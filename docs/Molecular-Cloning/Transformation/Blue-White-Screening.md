@@ -5,12 +5,12 @@
 ## **Stocks Preparation**
 
 === "20 mg/ml X-Gal"
-    Prepare 20 mg/ml X-Gal ([GoldBio #X4281C](https://goldbio.com/product/2002/x-gal)) in DMF or DMSO.
+    Prepare 20 mg/ml X-Gal ([GoldBio #X4281C](https://goldbio.com/product/2002/x-gal){target="_blank"}) in DMF or DMSO.
     !!! info "Note"
         **Store at -20˚C in a dark tube or cover with aluminum foil to protect from light.**
 
 === "100 mM IPTG"
-    Prepare 100 mM IPTG ([GoldBio #I2481C](https://goldbio.com/product/1379/iptg)) in MQ water and store at -20˚C.
+    Prepare 100 mM IPTG ([GoldBio #I2481C](https://goldbio.com/product/1379/iptg){target="_blank"}) in MQ water and store at -20˚C.
     !!! info "Note"
         **Store at -20˚C**
 

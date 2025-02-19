@@ -2,17 +2,17 @@
 
 ## **Buffers and Stocks**
 === "Extraction buffer"
-    | **Component**              | **Final conc.** | **For 100.00 ml** |
+    | **Component**              | **Final conc.** | **For 100 ml** |
     |----------------------------|-----------------|-------------------|
-    | **CTAB**                   | 2%              | 2.00 g            |
-    | **1 M Tris-HCl, pH 8.0**   | 100 mM          | 10.00 ml          |
-    | **0.5 M EDTA, pH 8.0**     | 20 mM           | 4.00 ml           |
-    | **5 M NaCl**               | 1.4 M           | 28.00 ml          |
-    | **PVP40**                  | 1%              | 1.00 g            |
-    | **ß-ME***                  | 0.50%           | 0.50 ml           |
-    | **10 mg/ml RNase A***      | 100 µg/ml       | 1.00 ml           |
-    | **20 mg/ml Proteinase K*** | 200 µg/ml       | 1.00 ml           |
-    | **Add water to**           |                 | 100.00 ml         |
+    | **CTAB**                   | 2%              | 2 g            |
+    | **1 M Tris-HCl, pH 8.0**   | 100 mM          | 10 ml          |
+    | **0.5 M EDTA, pH 8.0**     | 20 mM           | 4 ml           |
+    | **5 M NaCl**               | 1.4 M           | 28 ml          |
+    | **PVP40**                  | 1%              | 1 g            |
+    | **ß-ME***                  | 0.50%           | 0.5 ml           |
+    | **10 mg/ml RNase A***      | 200 µg/ml       | 2 ml           |
+    | **20 mg/ml Proteinase K*** | 200 µg/ml       | 1 ml           |
+    | **Add water to**           |                 | 100 ml         |
     
     *Add right before mixing with the sample.
 
@@ -31,12 +31,12 @@
     | **Ethanol**                | 80%             | 800 ml            |
     | **Add water to**           |                 | 1 L               |
 
-=== "TE buffer"
-    | **Component**              | **Final conc.** | **For 100.00 ml** |
-    |----------------------------|-----------------|-------------------|
-    | **1 M Tris-HCl, pH 8.0**   | 10 mM           | 1 ml              |
-    | **0.5 M EDTA, pH 8.0**     | 1 mM            | 0.2 ml            |
-    | **Add water to**           |                 | 100.00 ml         |
+    === "TE buffer"
+        | **Component**              | **Final conc.** | **For 50 ml**  |
+        |----------------------------|-----------------|-------------------|
+        | **1 M Tris-HCl, pH 8.0**   | 10 mM           | 0.5 ml            |
+        | **0.5 M EDTA, pH 8.0**     | 1 mM            | 0.1 ml            |
+        | **Add water to**           |                 | 50 ml          |
 
 ## **Other materials**
 - Isopropanol
@@ -52,7 +52,7 @@
 7. Add 700 µL of chloroform to the samples and mix by vortex.
 8. Spin the samples at 12,000 g for 5 minutes.
 9. Prepare the following plates:
-    - **Sample-plate** ([96-deep well plate](https://www.thermofisher.com/order/catalog/product/95040450)):
+    - **Sample-plate** ([96-deep well plate](https://www.thermofisher.com/order/catalog/product/95040450){target="_blank"}):
         - 400 µL supernatant from step 8
         - 400 µL binding buffer
         - 160 µL isopropanol
@@ -61,8 +61,8 @@
     - **Wash-plate-2** (96-deep well plate): 1 ml wash buffer
     - **Wash-plate-3** (96-deep well plate): 1 ml wash buffer
     - **Wash-plate-4** (96-deep well plate): 1 ml wash buffer
-    - **Elution-plate** ([Standard 96-well plate](https://www.thermofisher.com/order/catalog/product/97002540)): 100 µL / 150 µl TE buffer (after evaporation, only ~70 µl / 110 µl remain)
-    - **Tip-comb-plate:** [KingFisher 96 Tip Comb for DW Magnets](https://www.thermofisher.com/order/catalog/product/97002534) in a Standard 96-well plate.
+    - **Elution-plate** ([Standard 96-well plate](https://www.thermofisher.com/order/catalog/product/97002540){target="_blank"}): 100 µL / 150 µl TE buffer (after evaporation, only ~70 µl / 110 µl remain)
+    - **Tip-comb-plate:** [KingFisher 96 Tip Comb for DW Magnets](https://www.thermofisher.com/order/catalog/product/97002534){target="_blank"} in a Standard 96-well plate.
 10. Run the DNA_Extraction_100 µl/150 µl protocol (1 hour) located in KingFisher Flex machine.
         
     !!! info "Note"

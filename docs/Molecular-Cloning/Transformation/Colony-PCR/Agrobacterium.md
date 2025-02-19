@@ -14,7 +14,7 @@
 
     | PCR Reagents | Volume for 19 μl |
     | --- | --- |
-    | [PowerPol 2X PCR Mix with Dye (RK20719)](https://abclonal.com/molecular-biology/PowerPol2XPCRMixwithDye/RK20719) | 10 µl |
+    | [PowerPol 2X PCR Mix with Dye (RK20719)](https://abclonal.com/molecular-biology/PowerPol2XPCRMixwithDye/RK20719){target="_blank"} | 10 µl |
     | Primer forward (10 μM) | 0.4 µl |
     | Primer reverse (10 μM) | 0.4 µl |
     | Water | 8.2 µl |

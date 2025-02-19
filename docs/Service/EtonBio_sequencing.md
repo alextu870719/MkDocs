@@ -8,7 +8,7 @@
 3. **Quantify and verify sample quality** to meet submission requirements.
 
 ## Step 2: Log In
-1. Visit the [Etonbio website](https://www.etonbio.com).
+1. Visit the [Etonbio website](https://www.etonbio.com){target="_blank"}.
          
          Use Google Chrome browser
 
@@ -51,4 +51,4 @@
 400 Park Offices Dr, Suite 204  
 Research Triangle Park, NC 27709  
 
-For further details, refer to the [Etonbio Sequencing Guide](https://www.etonbio.com/sequencing/faq_seq.php).
+For further details, refer to the [Etonbio Sequencing Guide](https://www.etonbio.com/sequencing/faq_seq.php){target="_blank"}.
