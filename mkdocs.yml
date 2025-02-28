@@ -1,6 +1,6 @@
 site_name: CKTu Lab Documents
 site_url: https://alextu870719.github.io/MkDocs/
-
+docs_dir: "docs"
 theme:
   name: material
   font:
