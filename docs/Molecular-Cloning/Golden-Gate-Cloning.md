@@ -4,7 +4,7 @@
 | --- | --- |
 | T4 DNA ligase buffer | 1.5 |
 | 1 mg/ml BSA [A2153](https://www.sigmaaldrich.com/US/en/product/sigma/a2153) | 1.5 |
-| Vector:Insert = 1:1 | Adjust final concentration to 3 nM each fragment |
+| Vector:Insert = 1:1 | Adjust final concentration to 3 nM each fragment [Golden Gate Calculator](Software/ApE A Plasmid Editor/Golden Gate Assembly.md) |
 | T4 DNA ligase [M0202S/L](https://www.neb.com/en-us/products/m0202-t4-dna-ligase?srsltid=AfmBOooC_B2CrgDfYhkHVJSE16ixtbbY1rEJB1Sw-qXOZrWjJvTnLG3T) | 0.5 |
 | Type IIS restriction enzyme (5 U) | 0.5 |
 | Bring the volume to 15 μl with MQ water. | |
@@ -16,7 +16,8 @@
     | BbsI | [ER1012](https://www.thermofisher.com/order/catalog/product/ER1012?SID=srch-srp-ER1012) |
     | BsmBI | [ER0452](https://www.thermofisher.com/order/catalog/product/ER0452) |
 
-
+!!! note "PCR product insert, gel purification for preventing cloning primer dimer"
+!!! note "If use plasmid (sharing same antibiotic resistance with the acceptor plasmid) for PCR template, perform DpnI digestion for preventing contamination"
 
 ## **Reaction**
 

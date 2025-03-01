@@ -60,7 +60,3 @@
         * Here we have 4 fragments, therefore, 3 nM x 4 fragments = 12 nM.
     
     !!! note "You can "Copy", and paste on your notebook document"
-
-
-
-
