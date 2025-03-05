@@ -19,7 +19,7 @@ function calculateVolumes() {
 <label for="numTubes">Number of Tubes:</label>
 <input type="number" id="numTubes" name="numTubes" min="1" value="1" oninput="calculateVolumes()">
 
-### Standard PCR Mix
+### PCR Mix for 2 µl DNA
 
 | Component                                                                                                                   | Volume per Tube | Total Volume | Notes                                               |
 |-----------------------------------------------------------------------------------------------------------------------------|-----------------|--------------|-----------------------------------------------------|
@@ -29,7 +29,9 @@ function calculateVolumes() {
 | H2O                                                                                                                         | 2.2 µl          | <span id="h2o">2.2 µl</span> |                                                     |
 | DNA                                                                                                                         | 2.0 µl          | <span id="dna">2.0 µl</span> | (12.5 ng/µl citrus DNA extraction, total 25 ng)     |
 
-### Extract PCR Mix
+!!! Note "Dispense 8 µl to each 384 plate well."
+
+### PCR Mix for 1 µl DNA
 
 | Component                                                                                                                   | Volume per Tube | Total Volume | Notes                                               |
 |-----------------------------------------------------------------------------------------------------------------------------|-----------------|--------------|-----------------------------------------------------|
@@ -37,13 +39,17 @@ function calculateVolumes() {
 | Forward Primer                                                                                                              | 0.4 µl          | <span id="forwardPrimerExtract">0.4 µl</span> |                       |
 | Reverse Primer                                                                                                              | 0.4 µl          | <span id="reversePrimerExtract">0.4 µl</span> |                      |
 | H2O                                                                                                                         | 3.2 µl          | <span id="h2oExtract">3.2 µl</span> |                                                     |
-| DNA                                                                                                                         | 1.0 µl          | <span id="dnaExtract">1.0 µl</span> | (12.5 ng/µl citrus DNA extraction, total 12.5 ng)   |
+| DNA                                                                                                                         | 1.0 µl          | <span id="dnaExtract">1.0 µl</span> | (25 ng/µl citrus DNA extraction, total 25 ng)   |
+
+!!! Note "Dispense 9 µl to each 384 plate well."
+
+!!! Note "When loading, only pipette within 1st resistance to prevent introducing bubbles."
 
 ### Primers
 
-| ID  | Primer       | Sequence                       | Description                                                                                                      |
-|-----|--------------|-------------------------------|------------------------------------------------------------------------------------------------------------------|
-| 304 | RNRf         | CATGCTCCATGAAGCTACCC          | Forward primer for the 5-copy nrdB gene of CLas, for qPCR reactions. Amplicon size 80bp                           |
-| 305 | RNRr         | GGAGCATTTAACCCCACGAA          | Reverse primer for the 5-copy nrdB gene of CLas, to be used in qPCR. Amplicon size 80bp                           |
-| 29  | CsiGAPC2-F   | TCTTGCCTGCTTTGAATGGA          | Forward primer for the glyceraldehyde 3-phosphate dehydrogenase (GAPC2 based on Mafra et al. 2012; orange1.1g024565m.g) of Citrus species. Used as an internal control in PCR reactions. Amplicon size is 78 bp |
-| 30  | CsiGAPC2-R   | TGTGAGGTCAACCACTGCGACAT       | Reverse primer for the glyceraldehyde 3-phosphate dehydrogenase (GAPC2 based on Mafra et al. 2012; orange1.1g024565m.g) of Citrus species. Used as an internal control in PCR reactions. |
+| Primer       | Sequence                       | Description                                                                                                      |
+|--------------|-------------------------------|------------------------------------------------------------------------------------------------------------------|
+| RNRf         | CATGCTCCATGAAGCTACCC          | Forward primer for the 5-copy nrdB gene of CLas, for qPCR reactions. Amplicon size 80bp                           |
+| RNRr         | GGAGCATTTAACCCCACGAA          | Reverse primer for the 5-copy nrdB gene of CLas, to be used in qPCR. Amplicon size 80bp                           |
+| CsiGAPC2-F   | TCTTGCCTGCTTTGAATGGA          | Forward primer for the glyceraldehyde 3-phosphate dehydrogenase (GAPC2 based on Mafra et al. 2012; orange1.1g024565m.g) of Citrus species. Used as an internal control in PCR reactions. Amplicon size is 78 bp |
+| CsiGAPC2-R   | TGTGAGGTCAACCACTGCGACAT       | Reverse primer for the glyceraldehyde 3-phosphate dehydrogenase (GAPC2 based on Mafra et al. 2012; orange1.1g024565m.g) of Citrus species. Used as an internal control in PCR reactions. |
