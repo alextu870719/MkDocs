@@ -1,0 +1,19 @@
+# Sanger Sequencing Tool for Gene Editing Analysis
+## **Comparison**
+| Feature                | [TIDE](https://tide.nki.nl)                                                                | [ICE](https://ice.editco.bio/#/)                                                                 | [DECODR](https://decodr.org)                                                                 | [SeqScreener](https://www.thermofisher.com/us/en/home/life-science/sequencing/sanger-sequencing/applications/crispr-talen-genome-editing-sanger-sequencing/seqscreener-gene-edit-confirmation-app.html)                                                                 |
+|------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| **Indel Size Range Limit** | Cas9: 15, Cas12a: 35                                               | -30/+14                                                              | Unlimited                                                              | Unknown                                                                      |
+| **Inserted Sequence Deconvolution** | Limited to single base pair insertion                           | Displays inserted sequences as unknown nucleotides (N)                | Can fully deconvolve inserted sequences                                | Displays inserted sequences as unknown nucleotides (N)                       |
+| **Advantages**         | - May provide more accurate indel frequency values for samples with low indel frequency (<10%)<br>- Easy to use | - Provides the most accurate indel frequency values for most samples<br>- Can fully deconvolve inserted sequences | - Easy to use<br>- May provide more accurate indel frequency values for samples with low indel frequency (<10%) |                                                                              |
+| **Disadvantages**      | - Underestimates high indel frequency samples<br>- Cannot provide inserted sequence information | - May ignore low signal peaks in the low indel frequency range        | - May be less accurate than TIDE and SeqScreener in the low indel frequency range | - Cannot provide window size information                                      |
+| **Knock-in Analysis**  | TIDER (modified version of TIDE) performs better                     |                                                                     |                                                                        |                                                                              |                                                                        |
+
+## **Conclusion**
+- DECODR provides the most accurate indel frequency estimates in most cases, especially when samples contain a high proportion of indels.
+- TIDE and SeqScreener may be more accurate in the low indel frequency range.
+- DECODR is the only tool that can fully deconvolve inserted sequences, which is particularly useful for clonal cell analysis that requires indel sequence information.
+- For knock-in frequency analysis, TIDER is the preferred tool.
+- The appropriate tool should be carefully selected based on the specific requirements of the genome editing method.
+
+## **Reference**
+* Aoki, K., Yamasaki, M., Umezono, R., Hamamoto, T., & Kamachi, Y. (2024). Systematic Comparison of Computational Tools for Sanger Sequencing-Based Genome Editing Analysis. Cells, 13(3), 261.
