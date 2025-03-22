@@ -1,23 +1,26 @@
 ## **Buffers and Solutions** (Prepare freshly)
 
-=== "2 M NaOH"
-    | **Component**              | **Final conc.** | **For 100 mL**      |
-    |----------------------------|-----------------|---------------------|
-    | **10 M NaOH**              | 2 M             | 20 mL               |
-    | **Dissolve in**            |                 | 100 mL with water   |
+### **2 M NaOH**
 
-=== "0.1 M HCl"
-    | **Component**              | **Final conc.** | **For 60 mL**      |
-    |----------------------------|-----------------|--------------------|
-    | **5 M HCl**                | 0.1 M           | 1.2 mL             |
-    | **Dissolve in**            |                 | 60 mL with water   |
+| **Component** | **Final conc.** | **For 100 mL** |
+|---------------|-----------------|----------------|
+| **10 M NaOH** | 2 M             | 20 mL          |
+| **Dissolve in** |               | 100 mL with water |
 
-=== "Fe2/3 solution"
-    | **Component**              | **Final conc.** | **For 60 mL**      |
-    |----------------------------|-----------------|--------------------|
-    | **[FeCl3 (VWR #470301-382)](https://www.avantorsciences.com/us/en/product/8878176/ironiii-chloride?isCatNumSearch=true){target="_blank"}**                  | 0.333 M         | 3.24 g             |
-    | **[FeCl2 · 4 H2O (VWR #470301-356)](https://www.avantorsciences.com/us/en/product/8878169/ironii-chloride-tetrahydrate?isCatNumSearch=true){target="_blank"}**          | 0.167 M         | 2 g                |
-    | **Dissolve in**            | 0.1 M HCl       | 60 mL              |
+### **0.1 M HCl**
+
+| **Component** | **Final conc.** | **For 60 mL**  |
+|---------------|-----------------|----------------|
+| **5 M HCl**   | 0.1 M           | 1.2 mL         |
+| **Dissolve in** |               | 60 mL with water |
+
+### **Fe2/3 solution**
+
+| **Component** | **Final conc.** | **For 60 mL**  |
+|---------------|-----------------|----------------|
+| **[FeCl3 (VWR #470301-382)](https://www.avantorsciences.com/us/en/product/8878176/ironiii-chloride?isCatNumSearch=true){target="_blank"}** | 0.333 M | 3.24 g |
+| **[FeCl2 · 4 H2O (VWR #470301-356)](https://www.avantorsciences.com/us/en/product/8878169/ironii-chloride-tetrahydrate?isCatNumSearch=true){target="_blank"}** | 0.167 M | 2 g |
+| **Dissolve in** | 0.1 M HCl | 60 mL |
 
 ## **Other materials:**
 - Ethanol
