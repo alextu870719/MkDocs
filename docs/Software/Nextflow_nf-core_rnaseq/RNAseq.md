@@ -184,6 +184,7 @@
       --outdir /scratch/user/NETID/RNAseq/results \
       --pseudo_aligner salmon \
       --skip_bbsplit \
+      --aligner star --featurecounts \
       -resume
     ```
 4. Save the script (`Ctrl+X`, then `Y`, and `Enter`).
